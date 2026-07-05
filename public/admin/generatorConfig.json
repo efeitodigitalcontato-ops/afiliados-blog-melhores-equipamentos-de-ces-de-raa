@@ -1,0 +1,31 @@
+{
+  "theme": "melhores equipamentos de cães de raça",
+  "categories": [
+    {
+      "value": "melhores-equipamentos-de-c-es-de-ra-a",
+      "label": "Melhores equipamentos de cães de raça"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Melhores equipamentos de cães de raça"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-melhores-equipamentos-de-c-es-de-ra-a-1.jpg",
+      "label": "Melhores equipamentos de cães de raça Premium"
+    },
+    {
+      "value": "/recommended-melhores-equipamentos-de-c-es-de-ra-a-2.jpg",
+      "label": "Melhores equipamentos de cães de raça Custo-Benefício"
+    },
+    {
+      "value": "/recommended-melhores-equipamentos-de-c-es-de-ra-a-3.jpg",
+      "label": "Melhores Melhores equipamentos de cães de raça"
+    }
+  ]
+}
