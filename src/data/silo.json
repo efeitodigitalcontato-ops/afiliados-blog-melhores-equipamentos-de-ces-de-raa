@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "name": "Equipamentos de Passeio e Ergonomia",
+      "slug": "equipamentos-passeio-ergonomia",
+      "description": "Encontre os melhores equipamentos de passeio projetados especificamente para a anatomia de cães de raça. Garanta segurança, conforto e saúde postural no dia a dia do seu pet com acessórios de alta performance.",
+      "subcategories": [
+        {
+          "name": "Peitorais e Coleiras para Anatomia Canina",
+          "slug": "peitorais-coleiras-anatomia-canina",
+          "description": "Análises detalhadas e guias de compra dos melhores peitorais, coleiras e acessórios premium estruturados para respeitar a anatomia, evitar lesões e preservar a saúde de cães de raça pura.",
+          "articles": [
+            {
+              "title": "Equipamentos Premium para Cães de Raça: Como Escolher o Melhor para a Anatomia e Saúde do Seu Pet",
+              "slug": "primeiro-post"
+            }
+          ]
+        },
+        {
+          "name": "Guias de Alta Performance para Raças Fortes",
+          "slug": "guias-alta-performance-racas-fortes",
+          "description": "Seleção de guias de alta resistência, amortecimento e performance projetadas para o controle seguro e confortável de cães de raça forte e de grande porte durante os passeios.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Equipamentos de Alimentação e Descanso Saudável",
+      "slug": "equipamentos-alimentacao-descanso-saudavel",
+      "description": "Descubra os melhores equipamentos de alimentação e descanso ortopédico recomendados por especialistas para preservar as articulações, a coluna e a digestão de cães de raça.",
+      "subcategories": [
+        {
+          "name": "Comedouros Elevados e Ergonômicos",
+          "slug": "comedouros-elevados-ergonomicos",
+          "description": "Guia completo dos melhores comedouros elevados e ergonômicos para prevenir a torção gástrica e melhorar a postura de cães de raças grandes, gigantes ou com sensibilidade digestiva.",
+          "articles": []
+        },
+        {
+          "name": "Camas Ortopédicas para Cães de Raça",
+          "slug": "camas-ortopedicas-caes-raca",
+          "description": "Review e comparativo das melhores camas ortopédicas com espuma de memória (memory foam) para cães de raça propensos a problemas articulares, displasia e calos de apoio.",
+          "articles": []
+        }
+      ]
+    }
+  ]
+}
